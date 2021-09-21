@@ -1,0 +1,7 @@
+Feitura dos exercícios de python do dia 24/08/2021
+Entretanto fizemos na linguagem C.
+
+Falamos de if e else em C também.
+
+Posso mudar o valor de caracter do vsCode ao digitar:
+'chcp 65001' ou 'chcp 1252'
