@@ -1,3 +1,7 @@
+/*
+    Faça um programa que calcule e mostre ao final a média aritmética de quantas notas forem informadas pelo usuário. A entrada de dados deverá terminar quando for lido um número negativo.
+*/
+
 #include <stdio.h>
 
 int main()
